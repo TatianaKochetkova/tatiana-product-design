@@ -16,6 +16,16 @@
   </head>
   <body>
     <div id="root"></div>
+    <script>
+document.addEventListener('error', function (e) {
+  if (e.target.tagName === 'IMG') {
+    const src = e.target.getAttribute('src');
+    if (src && src.startsWith('work/')) {
+      e.target.src = src.replace('work/', '');
+    }
+  }
+}, true);
+</script>
   </body>
 </html>
 
