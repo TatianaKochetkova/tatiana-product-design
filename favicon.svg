@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">TK.</title>
+  <rect width="64" height="64" rx="14" fill="#f6f5f1"/>
+  <g fill="#151515">
+    <path d="M6.156 20.047h21.5v4.547h-7.734v18.781h-6.016V24.594h-7.75z"/>
+    <path d="M28.844 20.047h6.016v8.516l8.672-8.516h6.984L39.281 31.094 51.672 43.375h-7.531l-9.281-9.188v9.188h-6.016z"/>
+  </g>
+  <circle cx="56.75" cy="40.25" r="3.25" fill="#347672"/>
+</svg>
