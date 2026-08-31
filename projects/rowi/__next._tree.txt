@@ -1,0 +1,10 @@
+:HL["/tatiana-product-design/_next/static/css/9ed1463c2f84d55d.css","style"]
+:HL["/tatiana-product-design/rowi/hero-interface.png","image"]
+:HL["/tatiana-product-design/rowi/dashboard-transparent.png","image"]
+:HL["/tatiana-product-design/rowi/payments-flow-transparent.png","image"]
+:HL["/tatiana-product-design/rowi/statement-fullbleed.png","image"]
+:HL["/tatiana-product-design/rowi/tariffs-comparison.png","image"]
+:HL["/tatiana-product-design/rowi/transactions-transparent.png","image"]
+:HL["/tatiana-product-design/rowi/final-ui-mobile-strip.png","image"]
+:HL["/tatiana-product-design/rowi/ui-style-guide.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"rowi","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"5yZZwaifvC5_cKrjUO_gN"}

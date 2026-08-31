@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[3110,[],""]
+3:I[1916,[],""]
+4:I[3010,["177","static/chunks/app/layout-dde753e954658f35.js"],"default"]
+5:I[7017,["177","static/chunks/app/layout-dde753e954658f35.js"],"default"]
+6:I[7291,["177","static/chunks/app/layout-dde753e954658f35.js"],"default"]
+:HL["/tatiana-product-design/_next/static/css/9ed1463c2f84d55d.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/tatiana-product-design/_next/static/css/9ed1463c2f84d55d.css","precedence":"next"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5yZZwaifvC5_cKrjUO_gN"}

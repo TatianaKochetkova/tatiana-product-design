@@ -1,0 +1,2 @@
+:HL["/tatiana-product-design/_next/static/css/9ed1463c2f84d55d.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"5yZZwaifvC5_cKrjUO_gN"}

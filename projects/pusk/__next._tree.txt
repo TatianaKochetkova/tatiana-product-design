@@ -1,0 +1,9 @@
+:HL["/tatiana-product-design/_next/static/css/9ed1463c2f84d55d.css","style"]
+:HL["/tatiana-product-design/pusk/hero-laptop.png","image"]
+:HL["/tatiana-product-design/pusk/portfolio-dashboard.webp","image"]
+:HL["/tatiana-product-design/pusk/project-dashboard.webp","image"]
+:HL["/tatiana-product-design/pusk/decision-request.webp","image"]
+:HL["/tatiana-product-design/pusk/roadmap.webp","image"]
+:HL["/tatiana-product-design/pusk/team-detail.webp","image"]
+:HL["/tatiana-product-design/pusk/team-widget.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"pusk","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"5yZZwaifvC5_cKrjUO_gN"}
