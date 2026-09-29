@@ -1,0 +1,11 @@
+:HL["/tatiana-product-design/_next/static/css/87f05b152be11916.css","style"]
+:HL["/tatiana-product-design/_next/static/css/329e9a828aaf3453.css","style"]
+:HL["/tatiana-product-design/invoice-cafe/hero-devices.png","image"]
+:HL["/tatiana-product-design/invoice-cafe/interfaces/application-dashboard.png","image"]
+:HL["/tatiana-product-design/invoice-cafe/interfaces/application-loan-parameters-real.png","image"]
+:HL["/tatiana-product-design/invoice-cafe/interfaces/application-offer-parameters-real.png","image"]
+:HL["/tatiana-product-design/invoice-cafe/interfaces/application-guarantors-real.png","image"]
+:HL["/tatiana-product-design/invoice-cafe/interfaces/application-documents-real.png","image"]
+:HL["/tatiana-product-design/invoice-cafe/interfaces/contract-schedule-real.png","image"]
+:HL["/tatiana-product-design/invoice-cafe/interfaces/contract-overdue-real.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"invoice-cafe","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"zZiqIBzR6bQTxBkrUlBWG"}
