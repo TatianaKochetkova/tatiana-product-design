@@ -1,8 +1,9 @@
 1:"$Sreact.fragment"
-2:I[3110,[],""]
-3:I[1916,[],""]
-4:I[3010,["177","static/chunks/app/layout-dde753e954658f35.js"],"default"]
-5:I[7017,["177","static/chunks/app/layout-dde753e954658f35.js"],"default"]
-6:I[7291,["177","static/chunks/app/layout-dde753e954658f35.js"],"default"]
-:HL["/tatiana-product-design/_next/static/css/9ed1463c2f84d55d.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/tatiana-product-design/_next/static/css/9ed1463c2f84d55d.css","precedence":"next"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5yZZwaifvC5_cKrjUO_gN"}
+2:I[632,[],""]
+3:I[3038,[],""]
+4:I[2545,["177","static/chunks/app/layout-451f6a2fca51b8ed.js"],"default"]
+5:I[6993,["177","static/chunks/app/layout-451f6a2fca51b8ed.js"],"default"]
+6:I[912,["177","static/chunks/app/layout-451f6a2fca51b8ed.js"],"default"]
+:HL["/tatiana-product-design/_next/static/css/87f05b152be11916.css","style"]
+:HL["/tatiana-product-design/_next/static/css/329e9a828aaf3453.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/tatiana-product-design/_next/static/css/87f05b152be11916.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/tatiana-product-design/_next/static/css/329e9a828aaf3453.css","precedence":"next"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}]]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zZiqIBzR6bQTxBkrUlBWG"}

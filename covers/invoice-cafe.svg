@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title description">
+  <title id="title">Invoice Cafe — кабинет заёмщика</title>
+  <desc id="description">Процессная схема от исследования финансового сервиса к end-to-end UX</desc>
+  <rect width="1200" height="900" fill="#EEF5FF"/>
+  <rect x="64" y="58" width="1072" height="784" rx="30" fill="#FBFDFF" stroke="#C8D9EF" stroke-width="2"/>
+  <text x="104" y="128" fill="#3385FF" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">FINTECH · PRODUCT DISCOVERY</text>
+  <text x="104" y="264" fill="#383B3F" font-family="Inter, Arial, sans-serif" font-size="92" font-weight="600" letter-spacing="-6">Invoice Cafe</text>
+  <text x="104" y="334" fill="#697686" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="500" letter-spacing="-1">Кабинет заёмщика</text>
+  <path d="M104 406H1096" stroke="#C8D9EF" stroke-width="2"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <g transform="translate(104 466)">
+      <text x="0" y="52" fill="#3385FF" font-size="48" font-weight="700" letter-spacing="-2">PROCESS</text>
+      <text x="0" y="94" fill="#697686" font-size="18" font-weight="500">Бриф → структура</text>
+    </g>
+    <path d="M391 514H456" stroke="#3385FF" stroke-width="3"/>
+    <path d="M443 502L456 514 443 526" fill="none" stroke="#3385FF" stroke-width="3"/>
+    <g transform="translate(494 466)">
+      <text x="0" y="52" fill="#3385FF" font-size="48" font-weight="700" letter-spacing="-2">DATA</text>
+      <text x="0" y="94" fill="#697686" font-size="18" font-weight="500">Клиент ↔ сервис</text>
+    </g>
+    <path d="M715 514H780" stroke="#3385FF" stroke-width="3"/>
+    <path d="M767 502L780 514 767 526" fill="none" stroke="#3385FF" stroke-width="3"/>
+    <g transform="translate(818 466)">
+      <text x="0" y="52" fill="#3385FF" font-size="48" font-weight="700" letter-spacing="-2">UX</text>
+      <text x="0" y="94" fill="#697686" font-size="18" font-weight="500">End-to-End</text>
+    </g>
+  </g>
+  <rect x="104" y="650" width="992" height="126" rx="18" fill="#17324D"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="136" y="692" fill="#83B5FF" font-size="12" font-weight="700" letter-spacing="2">FRONTSTAGE / BACKSTAGE</text>
+    <text x="136" y="744" fill="#FFFFFF" font-size="25" font-weight="600">Действие клиента</text>
+    <text x="388" y="744" fill="#83B5FF" font-size="24">→</text>
+    <text x="438" y="744" fill="#FFFFFF" font-size="25" font-weight="600">Данные и процесс</text>
+    <text x="720" y="744" fill="#83B5FF" font-size="24">→</text>
+    <text x="770" y="744" fill="#FFFFFF" font-size="25" font-weight="600">Ответ сервиса</text>
+  </g>
+</svg>
